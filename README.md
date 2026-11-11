@@ -7,3 +7,4 @@
 #### Enviar o código da atividade para seu repositório no github.
 #### Cada exercício deve estar em um código separado, sugestão de nome: _exercicio1_listas.py, exercicio2_listas.py e exercicio3_listas.py._
 ### Enviar o link do seu repositório na atividade do classroom.
+https://github.com/victorzbx/JoaoVictor/tree/main
